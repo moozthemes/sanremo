@@ -1,0 +1,469 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sanremo Theme\n"
+"POT-Creation-Date: 2016-02-09 23:20+0200\n"
+"PO-Revision-Date: 2015-04-04 15:03+0200\n"
+"Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
+"Language-Team: MOOZ Themes <info@moozthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_html__;esc_html_e;esc_attr_x:1,2c;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:34
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:37
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:40
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:43
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:49
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:52
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:55
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:58
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:61
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:64 ../sidebar.php:34
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:32 ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:28 ../content-single.php:31
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../content-page.php:41 ../content-single.php:44 ../content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:45 ../content-single.php:48 ../content.php:40
+msgid "Page"
+msgstr ""
+
+#: ../content.php:46
+msgid "Continue Reading"
+msgstr ""
+
+#: ../content.php:50
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:50
+msgid "% Comments"
+msgstr ""
+
+#: ../content.php:52
+msgid "Comments Off"
+msgstr ""
+
+#: ../functions.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:11
+msgid "No Sidebar"
+msgstr ""
+
+#: ../functions.php:12
+msgid "Full Width"
+msgstr ""
+
+#: ../functions.php:15
+msgid "Logo Only"
+msgstr ""
+
+#: ../functions.php:16
+msgid "Logo + Tagline"
+msgstr ""
+
+#: ../functions.php:17
+msgid "Title Only"
+msgstr ""
+
+#: ../functions.php:18
+msgid "Title + Tagline"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:201
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:203
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../functions.php:210
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../functions.php:212
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../functions.php:219
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../functions.php:221 ../functions.php:230 ../functions.php:239
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../functions.php:228
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../functions.php:237
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../functions.php:275
+msgid ". All rights reserved."
+msgstr ""
+
+#: ../functions.php:281
+#, php-format
+msgid "Theme by %1$s Powered by %2$s"
+msgstr ""
+
+#: ../inc/customizer.php:26
+msgid "Layout options"
+msgstr ""
+
+#: ../inc/customizer.php:27
+msgid "Choose website layout"
+msgstr ""
+
+#: ../inc/customizer.php:38
+msgid "Website Layout Options"
+msgstr ""
+
+#: ../inc/customizer.php:41
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+
+#: ../inc/customizer.php:51
+msgid "Display Comments on Static Pages?"
+msgstr ""
+
+#: ../inc/customizer.php:64
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inc/customizer.php:67
+msgid "Change slider settings here."
+msgstr ""
+
+#: ../inc/customizer.php:95
+msgid "Show Slider?"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "Logo"
+msgstr ""
+
+#: ../inc/template_tags.php:26
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template_tags.php:30
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template_tags.php:34
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template_tags.php:62
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template_tags.php:66
+msgid "<div class=\"meta-nav\"><span>Published In</span>%title</div>"
+msgstr ""
+
+#: ../inc/template_tags.php:68
+msgid "<div class=\"meta-nav meta-nav-left\"><span>Previous Post</span>%title</div>"
+msgstr ""
+
+#: ../inc/template_tags.php:69
+msgid "<div class=\"meta-nav meta-nav-right\"><span>Next Post</span>%title</div>"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:12
+#: ../inc/widgets/widget-sanremo-author.php:13
+msgid "sanremo About Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:69
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:96
+msgid "Author Name:"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:100
+msgid "Position:"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:104
+msgid "Content:"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-author.php:108
+msgid "Link:"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-posts.php:12
+#: ../inc/widgets/widget-sanremo-posts.php:13
+msgid "sanremo recent Posts Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-posts.php:18
+#: ../inc/widgets/widget-sanremo-posts.php:88
+msgid "recent Posts"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-posts.php:95
+#: ../inc/widgets/widget-sanremo-social.php:28
+#: ../inc/widgets/widget-sanremo-social.php:197
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-posts.php:100
+msgid "Limit Posts Number"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:13
+#: ../inc/widgets/widget-sanremo-social.php:14
+msgid "sanremo Social Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:35
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:40
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:45
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:50
+msgid "Google+"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:55
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:60
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:65
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:70
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:75
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:80
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:85
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:90
+msgid "Last.fm"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:95
+msgid "SoundCloud"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:201
+msgid "Enter full URL. If you don't want to display element, leave it's URL field empty."
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:205
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:211
+msgid "URL address of your Twitter profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:217
+msgid "URL address of your Google+ profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:223
+msgid "URL address of your Pinterest profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:229
+msgid "URL address of your Instagram profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:235
+msgid "URL address of your Tumblr profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:241
+msgid "URL address of your Dribbble profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:247
+msgid "URL address of your Last FM profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:253
+msgid "URL address of your Soundcloud profile"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:259
+msgid "URL address of your YouTube channel"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:265
+msgid "URL address of your Flickr profile page"
+msgstr ""
+
+#: ../inc/widgets/widget-sanremo-social.php:271
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#: ../index.php:22
+msgid "Previous page"
+msgstr ""
+
+#: ../index.php:23
+msgid "Next page"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
